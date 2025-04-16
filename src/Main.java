@@ -13,7 +13,7 @@ public class Main {
 
         Value_Implement valueEntity_1 = new Value_Implement(mudTile);
         Value_Implement valueEntity_2 = new Value_Implement(grassTile);
-        Value_Implement valueEntity_3 = new Value_Implement(MeadowTile);
+        Value_Implement valueEntity_3 = new Value_Implement(meadowTile);
         Value_Implement valueEntity_4 = new Value_Implement(rubbleTile);
         Value_Implement valueEntity_5 = new Value_Implement(clayTile);
         Value_Implement valueEntity_6 = new Value_Implement(stone_dirtTile);
